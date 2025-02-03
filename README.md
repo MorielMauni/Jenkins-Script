@@ -54,10 +54,6 @@ Contributions are welcome! If you'd like to enhance the script or add new featur
 
 Please ensure your contributions align with the existing coding style and include necessary documentation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
 For any questions or issues, feel free to reach out via email: morielmauni@gmail.com
